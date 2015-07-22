@@ -1,7 +1,12 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python2
 # coding:utf-8
 
-""" PyWebCraB - Python Web Crawler Bot """
+"""
+PyWebCraB - Python Web Crawler Bot
+  1. Search for specific web resource type [text, file, image, video, audio]
+  2. Filter for attribute [name, type, size, mime]
+  3. Search recursion constraints for link depth and domain name
+"""
 
 __author__       = "Toropov Ivan (iwi(at)hotmail(dot)it)"
 __copyright__    = "Copyright (C) 2014 netquote.it"
